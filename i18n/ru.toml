@@ -18,3 +18,12 @@ other = "Следующая"
 
 [older]
 other = "Предыдущая"
+
+[translations]
+other = "Переводы"
+
+[wordCount]
+other = "слов: {{ .WordCount }}"
+
+[readNext]
+other = "Читайте дальше"

@@ -1,0 +1,11 @@
+.links-prev-next {
+    clear: right;
+}
+
+.post-link {
+    font-size: 0.8em;
+}
+
+.post-link-next {
+    float: right;
+}

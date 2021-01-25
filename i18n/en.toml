@@ -18,3 +18,13 @@ other = "Newer"
 
 [older]
 other = "Older"
+
+[translations]
+other = "Translations"
+
+[wordCount]
+one = "{{ .WordCount }} word"
+other = "{{ .WordCount }} words"
+
+[readNext]
+other = "Read next"
